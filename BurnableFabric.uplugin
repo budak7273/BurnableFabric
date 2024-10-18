@@ -1,0 +1,26 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0.0",
+	"FriendlyName": "BurnableFabric",
+	"Description": "Adds a (configurable) fuel value back to Fabric (removed in SF 1.0)",
+	"Category": "Modding",
+	"CreatedBy": "Robb",
+	"CreatedByURL": "https://github.com/budak7273/BurnableFabric",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "http://discord.gg/zqp6U7Y7Nu",
+	"CanContainContent": true,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Plugins": [
+		{
+			"Name": "SML",
+			"Enabled": true,
+			"SemVersion": "^3.8.0"
+		}
+	],
+	"SemVersion": "1.0.0",
+	"GameVersion": ">=365306"
+}
